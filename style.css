@@ -1,0 +1,47 @@
+/* Global Styles
+------------------------------ */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #222222;
+}
+
+header {
+    background-color: #1f3a5f;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+main {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 0 20px;
+}
+
+
+/* Demo Sections
+------------------------------ */
+section {
+    background-color: white;
+    margin-bottom: 25px;
+    padding: 25px;
+    border-radius: 8px;
+    border: 1px solid #dddddd;
+}
+
+section h2 {
+    color: #1f3a5f;
+    margin-top: 0;
+}
+
+.message {
+    background-color: #eeeeee;
+    padding: 10px;
+    font-weight: bold;
+}
